@@ -22,10 +22,12 @@ Australian House Price Prediction
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Based on EDA and modeling, the Lasso model with alpha (0.001) has selected for our predictions. The following are the top 5 predictors:
+- GrLivAreaLog
+- RoofMatl_ClyTile
+- 1stFlrSFLog
+- MSZoning_C (all)
+- 2ndFlrSF
 
 
 ## Technologies Used
